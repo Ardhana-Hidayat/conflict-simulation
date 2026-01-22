@@ -1,2 +1,3 @@
 ini testing
-saya menambahkan feature b
+
+halo ini aku sedang testing pertama
