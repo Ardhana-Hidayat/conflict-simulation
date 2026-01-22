@@ -1,3 +1,3 @@
 ini testing
 
-halo ini aku sedang testing pertama
+halo ini aku sedang testing feature A
