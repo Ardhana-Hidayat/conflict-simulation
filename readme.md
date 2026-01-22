@@ -1,6 +1,3 @@
-ini testing
+# My Project
 
-halo ini aku sedang testing pertama
-
-ini alan sedang bikin feature b
-halo ini aku sedang testing feature A
+This project is awesome.
