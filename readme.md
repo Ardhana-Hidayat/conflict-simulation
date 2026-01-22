@@ -1,3 +1,4 @@
-ini testing
+# My Project
 
-halo ini aku sedang testing feature A
+This project is awesome.
+Feature A: Add login system.
