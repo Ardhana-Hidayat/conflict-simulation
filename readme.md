@@ -1,5 +1,4 @@
-ini testing
+# My Project
 
-halo ini aku sedang testing pertama
-
-ini alan sedang bikin feature b
+This project is awesome.
+Feature B: Add payment system.
